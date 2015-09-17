@@ -8,5 +8,3 @@ echo Hello Jenkins! %d% %t%>>1.txt
 echo Hello Jenkins! %d% %t%>>C:\_Playpen\batSample\1.txt
 
 echo I'm Jenkins! %d% %t%
-
-exit 1
